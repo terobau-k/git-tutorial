@@ -1,1 +1,1 @@
-log console version 2
+log console version 3
